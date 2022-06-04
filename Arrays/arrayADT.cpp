@@ -1,6 +1,6 @@
 #include <iostream>
 // #include <cstd
-using namespace std;
+using namespace std;;
 
 class Array
 {
